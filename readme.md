@@ -20,7 +20,7 @@ RockPaperScissor website is a game website in which you can play the very game R
 
 ### Launch
 #
-Just click on the deployed link below to see the project.
+To play the game or to see the website. Please click on the deployed link below.
 
-[Color Changer](https://colorchangerproject.netlify.app/)
+[Rock Paper Scissor](https://rpsgameproject.netlify.app/)
 
